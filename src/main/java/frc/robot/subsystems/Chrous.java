@@ -1,8 +1,5 @@
 package frc.robot.subsystems;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import com.ctre.phoenix.motorcontrol.can.WPI_TalonFX;
 import com.ctre.phoenix.music.Orchestra;
 
